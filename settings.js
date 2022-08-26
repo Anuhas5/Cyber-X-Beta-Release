@@ -36,25 +36,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94764706922'] //ur owner number
+global.ownername = "𝙰𝙽𝚄𝚆𝙰" //ur owner name
+global.ytname = "𝙲𝙾𝙽𝚃𝙰𝙲𝚃: https://api.whatsapp.com/send?phone=+94764706922" //ur yt chanel name
+global.socialm = "𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚐𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/F0tLRzOrpFJJFFzQoKCCN6" //ur github or insta name
+global.location = "Sri Lanka, Kurunagala, kumbukweva" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
+global.owner = ['94764706922']
+global.ownertag = '94764706922' //ur tag number
+global.botname = '𝙰𝙽𝚄𝚆𝙰 𝙱𝙾𝚃 ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
+global.packname = "𝙰𝙽𝚄𝚆𝙰 𝙱𝙾𝚃" //ur sticker watermark packname
+global.author = "𝙰𝙽𝚄𝚆𝙰 𝚄𝚂𝙴𝚁" //ur sticker watermark author
+global.aliveimg ="https://i.ibb.co/3h6JXgR/null-20220812-WA0028.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94764706922'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
